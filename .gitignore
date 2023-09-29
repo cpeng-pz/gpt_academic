@@ -132,6 +132,7 @@ dmypy.json
 .pyre/
 
 .vscode
+.idea
 
 history
 ssr_conf
@@ -140,3 +141,14 @@ gpt_log
 private.md
 private_upload
 other_llms
+cradle*
+debug*
+private*
+crazy_functions/test_project/pdf_and_word
+crazy_functions/test_samples
+request_llm/jittorllms
+multi-language
+request_llm/moss
+media
+flagged
+request_llm/ChatGLM-6b-onnx-u8s8
